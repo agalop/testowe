@@ -1,2 +1,2 @@
 # testowe
-przecwiczenie gita
+przecwiczenie gita i flexa
